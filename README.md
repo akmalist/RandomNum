@@ -1,2 +1,0 @@
-# RandomNum
-Created with CodeSandbox
